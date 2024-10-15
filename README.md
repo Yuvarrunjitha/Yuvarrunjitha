@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yuvarrunjitha
 - 👀 I’m interested in web-developing and more pojects
 - 🌱 I’m currently learning  AIML
-- 📫 How to reach me yuvarrunjithars@gmail.com
+- 📫 Rreach me thru yuvarrunjithars@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love exploring things 
 
