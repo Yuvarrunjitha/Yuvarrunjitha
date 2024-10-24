@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Yuvarrunjitha
-- 👀 I’m interested in web-developing and more pojects
+- 👀 I’m interested in Web-Developing and more projects
 - 🌱 I’m currently learning  AIML
-- 📫 Rreach me thru yuvarrunjithars@gmail.com
+- 📫 Reach me thru yuvarrunjithars@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love exploring things 
+- ⚡ Fun fact: I love exploring things!
 
 <!---
 Yuvarrunjitha/Yuvarrunjitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
